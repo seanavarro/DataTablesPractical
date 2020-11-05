@@ -1,0 +1,10 @@
+<link rel="stylesheet" type="text/css" href="https://bravolab.sharepoint.com/sites/Practical/SiteAssets/vendor/DataTables/Bootstrap-4-4.1.1/css/bootstrap.css"/>
+<link rel="stylesheet" type="text/css" href="https://bravolab.sharepoint.com/sites/Practical/SiteAssets/vendor/DataTables/DataTables-1.10.22/css/dataTables.bootstrap4.css"/>
+
+<script type="text/javascript" src="https://bravolab.sharepoint.com/sites/Practical/SiteAssets/vendor/DataTables/jQuery-3.3.1/jquery-3.3.1.js"></script> 
+<script type="text/javascript" src="https://bravolab.sharepoint.com/sites/Practical/SiteAssets/vendor/DataTables/DataTables-1.10.22/js/jquery.dataTables.js"></script>
+<script type="text/javascript" src="https://bravolab.sharepoint.com/sites/Practical/SiteAssets/vendor/DataTables/DataTables-1.10.22/js/dataTables.bootstrap4.js"></script>
+<script type="text/javascript" src="https://bravolab.sharepoint.com/sites/Practical/SiteAssets/vendor/moment/moment.js"></script>
+<script type="text/javascript" src="https://bravolab.sharepoint.com/sites/Practical/SiteAssets/custom/datatable/js/datatable.js"></script>
+
+<div id="dataGrid"></div>
